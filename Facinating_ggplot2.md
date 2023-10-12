@@ -1,14 +1,3 @@
----
-title: "Exciting Charts using ggplot2"
-author: "siju.swamy@saintgits.org"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: html_document
-css: custom.css
----
-
-```{r setup, include=FALSE,warning=FALSE}
-knitr::opts_chunk$set(echo = T)
-```
 
 ## Some nice Charts!!
 
